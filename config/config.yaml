@@ -1,0 +1,4 @@
+data_dir: data/raw
+processed_dir: data/processed
+fetch_time: "15:45"
+analysis_threshold: 1.5
